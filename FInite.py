@@ -67,26 +67,3 @@ for n in xrange (0, nt):
     phiOld= phi.copy()
     phi = phiNew.copy()
     plot(x,t, phi)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
